@@ -190,7 +190,7 @@ DB_NAME=bancodb
   <h3>Jhon Boris Rivera Caceres</h3>
   <h3>Marcos Luis Herrera Beltran</h3>
 		<h3> Luis Ventura Sanchez</h3>
-<h3> Cimar lopez</h3>
+<h3> Omar Aramayo Blacutt</h3>
 <h3>Leonardo antonio tellez</h3>
 
   <p><strong>Correo:</strong> cesarnvf.academia.bo@gmail.com</p>
